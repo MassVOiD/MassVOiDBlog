@@ -1,0 +1,2 @@
+# MassVOiDBlog
+my learning blog
